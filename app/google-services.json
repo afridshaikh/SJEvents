@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "66051220220",
+    "firebase_url": "https://sjbook-b02b6.firebaseio.com",
+    "project_id": "sjbook-b02b6",
+    "storage_bucket": "sjbook-b02b6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:66051220220:android:518b5d1960ec16cd",
+        "android_client_info": {
+          "package_name": "com.mishrafamily.sjbook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "66051220220-mov8l9pb8f88b41nuv9lte5991f3rs6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRRp3jzMEycCVXicTIPHldISsxKZR00X8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

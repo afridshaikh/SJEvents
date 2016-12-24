@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.mishrafamily.sjbook">
+
+    <uses-sdk tools:overrideLibrary="com.firebase.ui" />
+
+    <!-- To auto-complete the email text field in the login form with the user's emails -->
+    <uses-permission android:name="android.permission.GET_ACCOUNTS" />
+    <uses-permission android:name="android.permission.READ_PROFILE" />
+    <uses-permission android:name="android.permission.READ_CONTACTS" />
+    <uses-permission android:name="android.permission.INTERNET" />
+
+    <application
+        android:name=".firebase"
+        android:allowBackup="true"
+        android:icon="@mipmap/logo"
+        android:label="SJEvents"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".prac">
+            <intent-filter>
+                <action android:name="com.mishrafamily.sjbook02" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".NewEvent">
+            <intent-filter>
+                <action android:name="com.mishrafamily.NewEvent" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".ShowEvent">
+            <intent-filter>
+                <action android:name="com.mishrafamily.ShowEvent" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".LoginActivity" />
+        <activity android:name=".LoginAs" />
+        <activity android:name=".Studentlogin">
+            <intent-filter>
+                <action android:name="com.mishrafamily.StudentSignUp" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+        </activity>
+        <activity android:name=".StudentSignUp" />
+        <activity android:name=".TeacherSignUp" />
+        <activity android:name=".AboutUs"></activity>
+    </application>
+
+</manifest>

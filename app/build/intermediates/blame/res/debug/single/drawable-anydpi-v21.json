@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_twitter.xml",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_twitter.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_google.xml",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21\\ic_facebook.xml",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-anydpi-v21\\ic_facebook.xml"
+    }
+]

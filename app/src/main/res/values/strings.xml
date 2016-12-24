@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">SJbook</string>
+    <string name="title_activity_login">Sign in</string>
+
+    <!--for the menu item to be displayed-->
+    <string name="Item1">Civil</string>
+    <string name="Item2">Computer Engineering</string>
+    <string name="Item3">Extc</string>
+    <string name="Item4">Information Technology</string>
+    <string name="Item5">Mechanical </string>
+
+
+    <!--For the sign-out-->
+    <string name="signOut">Sign Out</string>
+
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Log in</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="error_invalid_password">This password is too short</string>
+    <string name="error_incorrect_password">This password is incorrect</string>
+    <string name="error_field_required">This field is required</string>
+    <string name="permission_rationale">"Contacts permissions are needed for providing email
+        completions."
+    </string>
+
+    <string-array name="Semester">
+        <item>Mechanical</item>
+        <item>Civil</item>
+        <item>Information Technology</item>
+        <item>Computer Engineering</item>
+        <item>Extc</item>
+    </string-array>
+    <string name="title_activity_student_signup">StudentSignup</string>
+</resources>

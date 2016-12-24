@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_facebook.png",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-ldpi-v4\\ic_facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_google.png",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-ldpi-v4\\ic_google.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\ic_twitter.png",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.firebaseui\\firebase-ui\\0.3.1\\res\\drawable-ldpi-v4\\ic_twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\common_ic_googleplayservices.png",
+        "source": "C:\\Users\\Shaikh\\AndroidStudioProjects\\sjbook\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-base\\9.6.1\\res\\drawable-ldpi-v4\\common_ic_googleplayservices.png"
+    }
+]
